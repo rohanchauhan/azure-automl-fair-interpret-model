@@ -5,8 +5,19 @@ We create a datastore and connect it to Azure Blob Storage. We then upload the l
 
 PFI Explainer drops a feature to understand the dependency of model on the feature. Local explainations can be provided for individual test cases as required on the time of prediction.
 
-![Global Explaination](global_importance.png)
+#### Trained Models by AutoML
 
+---
+
+![Trained Models by AutoML](images/experiment.png)
+
+---
+
+#### Global Explaination
+
+![Global Explaination](images/global_importance.png)
+
+---
 
 #### Dataset
 In this project, we use the [Credit Risk Dataset](https://www.kaggle.com/laotse/credit-risk-dataset) from Kaggle.
